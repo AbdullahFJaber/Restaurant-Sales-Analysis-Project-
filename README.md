@@ -62,5 +62,16 @@ This project is based on open-source data for educational purposes. It represent
 
 
 
+🗂 Files in This Repository
+
+Original Folder → The main Excel file containing data before cleaning ( Original Data.xlsx )
+
+
+The Excel file containing Data Analysis Results ( Restaurant Sales Analysis Project 3.xlsx )
+
+
+README.md → This file
+
+
 ر
 ر

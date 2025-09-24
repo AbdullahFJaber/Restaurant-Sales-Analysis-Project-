@@ -36,3 +36,31 @@ This project is based on open-source data for educational purposes. It represent
 - To understand customer behavior by purchase type and payment method.  
 - To design an interactive Excel dashboard with slicers and charts for better decision-making.  
 - To demonstrate how even a small dataset (262 rows) can generate valuable business insights.  
+
+
+## 📈 Dashboard Preview
+<img width="699" height="387" alt="Dashboard" src="https://github.com/user-attachments/assets/4fecf38d-9b02-4893-8ac4-3cfc99f5d280" />
+
+
+
+## 📊 Statistics Preview
+<img width="839" height="368" alt="Statistics" src="https://github.com/user-attachments/assets/66faaa5b-62bd-4a10-9d15-21c251bdc497" />
+
+
+
+
+## 📑 Pivot Tables Preview
+<img width="676" height="450" alt="Pivot Table" src="https://github.com/user-attachments/assets/fe2a14f1-6e80-4b0a-80a8-cd6c11506565" />
+
+
+
+
+## ⚠️ Outliers Preview
+<img width="898" height="461" alt="Outliers" src="https://github.com/user-attachments/assets/aec5f569-8765-4e86-a707-f80bfeb8e4c5" />
+
+
+
+
+
+ر
+ر

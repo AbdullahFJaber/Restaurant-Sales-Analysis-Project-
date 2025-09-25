@@ -100,7 +100,8 @@ Expand analysis with larger datasets or advanced BI tools for deeper insights.
 
 
 
-🗂 Files in This Repository
+
+## 🗂 Files in This Repository
 
 Original Folder → The main Excel file containing data before cleaning ( Original Data.xlsx )
 
@@ -110,10 +111,10 @@ The Excel file containing Data Analysis Results ( Restaurant Sales Analysis Proj
 README.md → This file
 
 
-# Thanks For Your Time
+## Thanks For Your Time
 
 
 ⭐ If you like this project, don’t forget to give it a star!
 
-ر
-ر
+
+

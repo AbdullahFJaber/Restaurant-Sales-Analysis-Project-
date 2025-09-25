@@ -62,6 +62,44 @@ This project is based on open-source data for educational purposes. It represent
 
 
 
+
+
+
+## 📝 Notes & Observations
+
+- **Lowest orders but highest revenue:**  
+  One specific day recorded the fewest transactions but generated the highest revenue, indicating larger purchase sizes or higher-value products sold.  
+
+- **Outliers linked to one manager:**  
+  All price outliers were traced back to a single manager in one branch, selling multiple products **in-store using credit card payments**. This suggests possible data entry errors or a recurring issue with the payment system.  
+
+- **Revenue peaks:**  
+  - Highest revenue day: **13 November**  
+  - Lowest revenue day: **7 November**  
+
+- **Correct Price validation column:**  
+  A new column *Correct Price* was created using the following formula to automatically flag potential outliers:  
+  ```excel
+  =IF(OR([@Price]>AVERAGE([Price])+3*STDEV([Price]),
+         [@Price]<AVERAGE([Price])-3*STDEV([Price])),
+     "Outlier","OK")
+"This method allowed quick detection of invalid entries and ensured more reliable analysis."
+
+
+## 💡 Recommendations:
+
+Monitor sales trends regularly to identify peak and low-performing days.
+
+Investigate unusual transactions to ensure data accuracy and prevent errors.
+
+Encourage managers to review branch-specific performance and apply best practices.
+
+Optimize product pricing and promotions based on demand patterns.
+
+Expand analysis with larger datasets or advanced BI tools for deeper insights.
+
+
+
 🗂 Files in This Repository
 
 Original Folder → The main Excel file containing data before cleaning ( Original Data.xlsx )
@@ -69,9 +107,13 @@ Original Folder → The main Excel file containing data before cleaning ( Origin
 
 The Excel file containing Data Analysis Results ( Restaurant Sales Analysis Project 3.xlsx )
 
-
 README.md → This file
 
+
+# Thanks For Your Time
+
+
+⭐ If you like this project, don’t forget to give it a star!
 
 ر
 ر

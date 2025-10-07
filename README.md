@@ -108,13 +108,5 @@ Original Folder → The main Excel file containing data before cleaning ( Origin
 
 The Excel file containing Data Analysis Results ( Restaurant Sales Analysis Project 3.xlsx )
 
-README.md → This file
-
-
-## Thanks For Your Time
-
-
-⭐ If you like this project, don’t forget to give it a star!
-
 
 
